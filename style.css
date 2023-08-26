@@ -3,7 +3,19 @@ div{
     border: 10px;
     padding: 10px;
     background-color: black;
-    border: 10px solid grey;
+    border: 10px solid  blue;
     color: aliceblue;
+    box-shadow: 10px 10px 10px purple;
+    
+}
+h3{
+    font-size: 30px;
     font-family: monospace;
+    font-weight: 800;
+    color: blueviolet;
+}
+p{
+    font-size: 20px;
+    font-family: monospace;
+    color: blue;
 }
